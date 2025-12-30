@@ -1,74 +1,66 @@
-Hi there, I’m Tharun 👋
+# 👋 Hi, I’m Tharun
 
-Learning MLOps in Public | Aspiring MLOps / ML Engineer
+Learning MLOps in Public | Building End-to-End ML Systems
+MLflow • DVC • Docker • CI/CD • Monitoring • Capstone Projects
 
-I’m learning how to take machine learning models from experimentation to production.
-My focus is on building reliable, automated, and scalable ML pipelines using real-world MLOps tools.
+## 🔧 Skills & Tools
 
-🚀 What I’m Working On Now
+Programming: Python
 
-Building a Production-Ready MLOps Pipeline for Vehicle Insurance Prediction
-
-Applying real-world practices for:
-
-Automated data ingestion & validation
-
-Model training, evaluation, and deployment
-
-Containerized ML workflows
-
-🧠 Featured Projects
-🔹 Production-Ready MLOps Pipeline – Vehicle Insurance Prediction (In Progress)
-
-   A real-world MLOps pipeline that automates the complete ML lifecycle—from data ingestion to deployment—designed to simulate industry-grade ML systems.
-
-🔹 End-to-End MLOps Pipeline with DVC
-
-   Built a full ML pipeline using DVC for data versioning and MLflow for experiment tracking, ensuring reproducible and traceable model training workflows.
-
-🔧 Skills & Tools 
-
-Languages: Python
 Machine Learning: Scikit-learn
+
 MLOps: DVC, MLflow
+
 Containerization: Docker
+
 Cloud: AWS (S3 Buckets)
-Version Control: Git, GitHub
 
-📚 Learning Roadmap (Clear Flow)
+Version Control: Git & GitHub
 
-✅ Completed
+## 🏆 Projects & Learning Journey
+## Production-Ready MLOps Pipeline – Vehicle Insurance Prediction
 
-End-to-end ML pipelines with DVC
+Currently building a real-world, production-grade MLOps pipeline that automates data ingestion, data validation, model training, evaluation, and deployment using industry-standard MLOps practices.
 
-Experiment tracking with MLflow
+## End-to-End MLOps Pipeline with DVC
 
-Model & artifact storage using AWS S3
+Built a complete ML pipeline using DVC for data versioning and MLflow for experiment tracking, enabling reproducible and traceable machine learning workflows.
 
-Containerizing ML applications using Docker
+## 📚 Currently Learning
 
-🚧 Currently Applying
+Building real-world, production-ready MLOps pipelines
 
-Building a production-ready MLOps pipeline with real-world structure and automation
+Docker-based ML deployments
 
-🔮 Up Next
+Structuring ML projects for industry use
 
-Kubernetes for scalable ML deployments
+## 🚀 Upcoming Learning Goals
 
-Prometheus & Grafana for model and system monitoring
+Kubernetes & container orchestration
+
+Monitoring ML systems with Prometheus & Grafana
 
 Capstone-level MLOps project with full production deployment
 
-💻 Tech Stack
+## 🌐 Socials
+https://www.linkedin.com/in/tharun-karthik-g/
 
-Python • Scikit-learn • DVC • MLflow • Docker • AWS S3 • Git • GitHub
+## 💻 Tech Stack
 
-🤝 Let’s Connect
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🤝 Let’s Connect
 
 I’m actively learning MLOps in public and building real-world ML systems step by step.
 Open to internships, entry-level roles, and collaborations in MLOps / ML Engineering.
 
-🔝 Featured Repositories
+## 🔝 Featured Repositories
 
 ⭐ Production-Ready MLOps Pipeline – Vehicle Insurance Prediction
 ⭐ End-to-End MLOps Pipeline with DVC
