@@ -1,21 +1,23 @@
-# 👋 Hi, I’m Tharun
+# 👋 Hi there, I’m Tharun
 
-Learning MLOps in Public | Building End-to-End ML Systems
-MLflow • DVC • Docker • CI/CD • Monitoring • Capstone Projects
+**3rd Year Computer Science Student | Learning MLOps in Public | Building End-to-End MLOps Projects |
+• MLflow • DVC • Docker • CI/CD • Monitoring** 
+***
 
 ## 🔧 Skills & Tools
 
-Programming: Python
+**Programming**:  Python
 
-Machine Learning: Scikit-learn
+**Machine Learning**: Scikit-learn
 
-MLOps: DVC, MLflow
+**MLOps**: DVC, MLflow
 
-Containerization: Docker
+**Containerization**: Docker
 
-Cloud: AWS (S3 Buckets)
+**Cloud**: AWS (S3 Buckets)
 
-Version Control: Git & GitHub
+**Version Control**: Git & GitHub
+***
 
 ## 🏆 Projects & Learning Journey
 ## Production-Ready MLOps Pipeline – Vehicle Insurance Prediction
@@ -25,6 +27,7 @@ Currently building a real-world, production-grade MLOps pipeline that automates 
 ## End-to-End MLOps Pipeline with DVC
 
 Built a complete ML pipeline using DVC for data versioning and MLflow for experiment tracking, enabling reproducible and traceable machine learning workflows.
+***
 
 ## 📚 Currently Learning
 
@@ -33,6 +36,7 @@ Building real-world, production-ready MLOps pipelines
 Docker-based ML deployments
 
 Structuring ML projects for industry use
+***
 
 ## 🚀 Upcoming Learning Goals
 
@@ -41,9 +45,11 @@ Kubernetes & container orchestration
 Monitoring ML systems with Prometheus & Grafana
 
 Capstone-level MLOps project with full production deployment
+***
 
 ## 🌐 Socials
 https://www.linkedin.com/in/tharun-karthik-g/
+***
 
 ## 💻 Tech Stack
 
@@ -54,13 +60,16 @@ https://www.linkedin.com/in/tharun-karthik-g/
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+***
 
 ## 🤝 Let’s Connect
 
 I’m actively learning MLOps in public and building real-world ML systems step by step.
 Open to internships, entry-level roles, and collaborations in MLOps / ML Engineering.
+***
 
 ## 🔝 Featured Repositories
 
 ⭐ Production-Ready MLOps Pipeline – Vehicle Insurance Prediction
+
 ⭐ End-to-End MLOps Pipeline with DVC
